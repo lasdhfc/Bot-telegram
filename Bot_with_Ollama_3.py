@@ -10,7 +10,7 @@ from telegram.error import TimedOut
 model = 'mistral:7b-instruct'
 
 # Токен Telegram-бота
-TELEGRAM_TOKEN = '7375374420:AAGQFeBJGcbvr4sCszRPum4fYI6ag9GstZo'
+TELEGRAM_TOKEN = ''
 
 # Регулярные выражения
 # MOBILE_PHONE_REGEX = r'(\+7|8)(?:[\s\-()]?\d){10}'
